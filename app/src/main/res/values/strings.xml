@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Game Of Thrones</string>
     <string name="title_home">Characters</string>
+    <string name="error_no_internet">Internet not connected</string>
 </resources>
